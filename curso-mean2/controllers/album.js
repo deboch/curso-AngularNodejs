@@ -144,4 +144,4 @@ module.exports = {
 	saveAlbum,
 	updateAlbum,
 	deleteAlbum
-}
+};

@@ -158,7 +158,7 @@ function getImageFile(req, res){
 	});
 }
 
-module.export = {
+module.exports = {
 	getArtist,
 	saveArtist,
 	getArtists,
@@ -166,4 +166,4 @@ module.export = {
 	deleteArtist, 
 	uploadImage, 
 	getImageFile
-}
+};
